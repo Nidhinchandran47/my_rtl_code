@@ -2,10 +2,10 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="header" align="center">
-  <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimageio.forbes.com%2Fspecials-images%2Fimageserve%2F5f9989b6dd6bd7ac56e33288%2FAMD-To-Acquire-Xilinx--Inc-%2F960x0.jpg%3Fformat%3Djpg%26width%3D960&imgrefurl=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fdavealtavilla%2F2020%2F10%2F28%2Famds-35-billion-acquisition-of-xilinx-is-another-stroke-of-strategic-brilliance%2F&tbnid=KU8wt39U-jmdlM&vet=12ahUKEwjiqpSn9-X8AhUXj9gFHV8JBxUQMygEegUIARDpAQ..i&docid=o6K0M_6xRFesdM&w=959&h=423&q=xilinx&ved=2ahUKEwjiqpSn9-X8AhUXj9gFHV8JBxUQMygEegUIARDpAQ" width="100"/>
+  <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.anandtech.com%2Fdoci%2F17251%2Famd-logos-web-update-2020_4_678x452.png&imgrefurl=https%3A%2F%2Fwww.anandtech.com%2Fshow%2F17251%2Famds-acquisition-of-xilinx-receives-regulatory-go-expected-to-close-feb-14th&tbnid=kc6DM5-MmgUWdM&vet=12ahUKEwjexfKP-OX8AhUyxXMBHTn3BBcQMygaegUIARDzAQ..i&docid=b5_JXci-xyioVM&w=678&h=382&q=xilinx%20logo%20png&hl=en&ved=2ahUKEwjexfKP-OX8AhUyxXMBHTn3BBcQMygaegUIARDzAQ" width="100"/>
 </div>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/adarsh-k-0868151b6" data-inline="true">
+  <a href="https://www.linkedin.com/in/adar-sh" data-inline="true">
     <img src="https://img.shields.io/badge/Nidhin Chandran-blue?style=for-the-badge&logo=linkedin&logoColor=white&align=center" alt="LinkedIn Badge"/>
   </a>
  </div>
@@ -24,3 +24,6 @@ If you notice any issues,please raise it.
 # MODULES
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adar-sh&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="adarsh-k-0868151b6" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/adarsh-k-0868151b6?trk=profile-badge">Adarsh K</a></div>
+              
