@@ -12,8 +12,8 @@ The symbol of JK flip flop is the same as SR Bistable Latch except for the addit
 |   J   |   K   |  Q(n+1)  |  Qbar(n+1)  |
 __________________________________________
 |   0   |   0   |    Qn    |    Qn bar   |   // no channge
-|   0   |   1   |    0     |      1      |
-|   1   |   0   |    1     |      0      |
+|   0   |   1   |    0     |      1      |   // reset
+|   1   |   0   |    1     |      0      |   // set
 |   1   |   1   |  Qn bar  |      Qn     |   // toggle
 
 
