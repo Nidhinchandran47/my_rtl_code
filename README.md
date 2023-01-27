@@ -43,7 +43,3 @@ https://circuitverse.org/users/104723
 | 2 | **FULL ADDER** |
 | 3 | **ADDER / SUBTRACTOR** |
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adar-sh&theme=dark&background=000000)](https://git.io/streak-stats)
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="adarsh-k-0868151b6" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/adarsh-k-0868151b6?trk=profile-badge">Adarsh K</a></div>
-              
