@@ -37,8 +37,10 @@ https://circuitverse.org/users/104723
 
 # MODULES
 
-1 **JK FLIPFLOP**
-2 **FULL ADDER**
+|   |    |
+| ---- | ----|
+| 1 | **JK FLIPFLOP** |
+| 2 | **FULL ADDER** |
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adar-sh&theme=dark&background=000000)](https://git.io/streak-stats)
 
