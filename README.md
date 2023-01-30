@@ -29,7 +29,7 @@
  
 # Learn Verilog Together
 Repository for Verilog building blocks 
-We will upload very basic rtl projet  
+We will upload very basic rtl project  
 Most of these are well tested and shouldn't have issues.
 If you notice any issues,please raise it.
 
