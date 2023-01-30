@@ -33,12 +33,14 @@ We will upload very basic rtl projet
 Most of these are well tested and shouldn't have issues.
 If you notice any issues,please raise it.
 
-
 <div id="badges" align="center">
   <a href="https://circuitverse.org/users/104723" data-inline="true">
-    <img src="https://img.shields.io/badge/Circuitverse-success? alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Circuitverse-success?" alt="LinkedIn Badge"/>
   </a>
  </div>
+
+                                                                                     
+                                                                                     
 # MODULES
 
 |   |    |
