@@ -48,4 +48,5 @@ If you notice any issues,please raise it.
 | 1 | **JK FLIPFLOP** |
 | 2 | **FULL ADDER** |
 | 3 | **ADDER / SUBTRACTOR** |
+| 4 | **MULTIPLEXERS** |
 
