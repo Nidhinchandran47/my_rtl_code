@@ -1,5 +1,7 @@
 
-Multiplexing means transmitting a large number of information units over a smaller number of channels or line. A digital multiplexer is a combinational circuit that selects binary informations from one of many input line ans direct to a single output. There are 2 power n input lines for an n select lines.
+Multiplexing means transmitting a large number of information units over a smaller number of channels or line.
+A digital multiplexer is a combinational circuit that selects binary informations from one of many input line ans direct to a single output. 
+There are 2 power n input lines for an n select lines.
 
 Here i am implimenting 4 to 1 multiplexer in 4 format -- gate level
                                                          case statement
