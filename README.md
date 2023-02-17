@@ -49,4 +49,5 @@ If you notice any issues,please raise it.
 | 2 | **FULL ADDER** |
 | 3 | **ADDER / SUBTRACTOR** |
 | 4 | **MULTIPLEXERS** |
+| 4 | **BINARY TO GRAY CONVERTER** |
 
