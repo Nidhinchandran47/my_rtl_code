@@ -17,5 +17,10 @@ Here i am implimenting 4 to 1 multiplexer in 4 format
 |    1    |    0   |      C     |
 |    1    |    1   |      D     |               
  
+ - - - -
+ 
+ Timing diagram of a multiplexer
+ 
+ ![timing diagram](https://user-images.githubusercontent.com/96820094/219843257-bc8e4f5b-6953-4690-9639-45ce2f9dbf37.png)
 
 
