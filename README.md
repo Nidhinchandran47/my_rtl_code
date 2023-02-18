@@ -46,7 +46,7 @@ If you notice any issues,please raise it.
 |   |    |
 | ---- | ----|
 | 1 | [**JK FLIPFLOP**](https://github.com/Nidhinchandran47/my_rtl_code/tree/main/001-%20JK%20FLIPFLOP "JK FLIPFLOP") |
-| 2 | **FULL ADDER** |
+| 2 | [**FULL ADDER**](https://github.com/Nidhinchandran47/my_rtl_code/tree/main/002-%20FULL%20ADDER "FULL ADDER") |
 | 3 | **ADDER / SUBTRACTOR** |
 | 4 | **MULTIPLEXERS** |
 | 5 | **BINARY TO GRAY CONVERTER** |
