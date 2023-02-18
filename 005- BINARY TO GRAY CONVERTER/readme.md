@@ -11,7 +11,7 @@ steps to convert binary code to gray
                        
                        Here is the tcl console result of our binary to gray converter rlt code
                        
-                       /////////
+                       ------------------------------------
                         the gray code of 0000 is --> 0000
                         the gray code of 0001 is --> 0001
                         the gray code of 0010 is --> 0011
@@ -28,7 +28,7 @@ steps to convert binary code to gray
                         the gray code of 1101 is --> 1011
                         the gray code of 1110 is --> 1001
                         the gray code of 1111 is --> 1000
-                       /////////
+                       ------------------------------------
 
 
 # Simulation results
