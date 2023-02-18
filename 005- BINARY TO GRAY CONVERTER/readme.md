@@ -4,9 +4,9 @@ These numbers cause ambiguities or errors when the transition from one number to
 This code simply solves this problem by changing only one bit when the transition is between numbers is done.
 
 
-Steps to convert binary code to gray.
-                     1.  MSB of gray is same as that of the binary.
-                     2.  The nth bit is the exor the nth and n+1th bit.
+Steps to convert binary code to gray.</n>
+1.  MSB of gray is same as that of the binary.
+2.  The nth bit is the exor the nth and n+1th bit.
                        
                        
                        Here is the tcl console result of our binary to gray converter rlt code
