@@ -33,13 +33,16 @@ Steps to convert binary code to gray.</n>
 
 # Simulation results
 ![circut diagram](https://user-images.githubusercontent.com/96820094/219840721-e6acbced-e949-48ec-b978-0550ca54aeb8.png)
+circut diagram</n>
 
 ![schematics](https://user-images.githubusercontent.com/96820094/219840780-74af890b-28db-469c-833c-09c3cba48c77.png)
+schematics</n>
 
 ![timing diagram](https://user-images.githubusercontent.com/96820094/219840830-b174ff0d-f4d2-4dfb-a473-0f7152de536f.png)
+timing diagram</n>
 
 ![tcl console result](https://user-images.githubusercontent.com/96820094/219840870-143530e0-a3f5-49ab-ac9c-1d13ad9662ae.png)
-
+tcl console result</n>
 
 
 
