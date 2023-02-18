@@ -7,14 +7,12 @@ Here i am implimenting 4 to 1 multiplexer in 4 format -- gate level
                                                          case statement
                                                          conditional statement
                                                          if else statement
-                                              ________________________________
                                              |    S1   |   S0   |   output   |
-                                             ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                                             |----|----|----|----|
                                              |    0    |    0   |      A     |
                                              |    0    |    1   |      B     |
                                              |    1    |    0   |      C     |
                                              |    1    |    1   |      D     |
-                                             ---------------------------------
-                                             
+                                            
                                             
  
