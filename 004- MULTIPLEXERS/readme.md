@@ -3,16 +3,19 @@ Multiplexing means transmitting a large number of information units over a small
 A digital multiplexer is a combinational circuit that selects binary informations from one of many input line ans direct to a single output. 
 There are 2 power n input lines for an n select lines.
 
-Here i am implimenting 4 to 1 multiplexer in 4 format -- gate level
-                                                         case statement
-                                                         conditional statement
-                                                         if else statement
-                                             |    S1   |   S0   |   output   |
-                                             |----|----|----|----|
-                                             |    0    |    0   |      A     |
-                                             |    0    |    1   |      B     |
-                                             |    1    |    0   |      C     |
-                                             |    1    |    1   |      D     |
-                                            
-                                            
+Here i am implimenting 4 to 1 multiplexer in 4 format 
+
+         1 gate level
+         2 case statement
+         3 conditional statement
+         4 if else statement
+                                                         
+|    S1   |   S0   |   output   |
+| :----: | :----: | :----: |
+|    0    |    0   |      A     |
+|    0    |    1   |      B     |
+|    1    |    0   |      C     |
+|    1    |    1   |      D     |               
  
+
+
