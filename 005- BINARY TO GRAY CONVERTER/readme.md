@@ -29,6 +29,12 @@ Steps to convert binary code to gray.</n>
                         the gray code of 1110 is --> 1001
                         the gray code of 1111 is --> 1000
                        ------------------------------------
+![images](https://user-images.githubusercontent.com/96820094/219843010-2d63bdf3-9d04-4e1a-adb8-abbb4555ac39.jpg)
+
+  - - - -
+  
+  - - - -
+
 
 
 # Simulation results
