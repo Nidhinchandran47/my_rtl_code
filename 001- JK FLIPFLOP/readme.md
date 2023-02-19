@@ -16,5 +16,12 @@ The symbol of JK flip flop is the same as SR Bistable Latch except for the addit
 |   1   |   0   |    1     |      0      |   // set |
 |   1   |   1   |  Qn bar  |      Qn     |   // toggle |
 
+# circuit diagram
 
-            
+![circuit diagram](https://user-images.githubusercontent.com/96820094/219960720-dde89ef2-74c1-4645-ba91-7675bd8eddb4.png)
+
+- - - -
+
+# Timing diagram
+
+![timing diagram](https://user-images.githubusercontent.com/96820094/219960843-b7c0e3c4-dc8f-45c0-918c-e4237629083a.png)
