@@ -10,7 +10,7 @@ So, the JK flip-flop has four possible input combinations, i.e., 1, 0, "no chang
 The symbol of JK flip flop is the same as SR Bistable Latch except for the addition of a clock input.
 
 |   J   |   K   |  Q(n+1)  |  Qbar(n+1)  |
-__________________________________________
+| ---- | ---- | ---- | ---- |
 |   0   |   0   |    Qn    |    Qn bar   |   // no channge
 |   0   |   1   |    0     |      1      |   // reset
 |   1   |   0   |    1     |      0      |   // set
