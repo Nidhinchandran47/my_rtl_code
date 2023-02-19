@@ -9,12 +9,12 @@ The invalid or illegal output condition occurs when both of the inputs are set t
 So, the JK flip-flop has four possible input combinations, i.e., 1, 0, "no change" and "toggle". 
 The symbol of JK flip flop is the same as SR Bistable Latch except for the addition of a clock input.
 
-|   J   |   K   |  Q(n+1)  |  Qbar(n+1)  |
-| ---- | ---- | ---- | ---- |
-|   0   |   0   |    Qn    |    Qn bar   |   // no channge
-|   0   |   1   |    0     |      1      |   // reset
-|   1   |   0   |    1     |      0      |   // set
-|   1   |   1   |  Qn bar  |      Qn     |   // toggle
+|   J   |   K   |  Q(n+1)  |  Qbar(n+1)  |     |
+| ---- | ---- | ---- | ---- | ---- |
+|   0   |   0   |    Qn    |    Qn bar   |   // no channge |
+|   0   |   1   |    0     |      1      |   // reset |
+|   1   |   0   |    1     |      0      |   // set |
+|   1   |   1   |  Qn bar  |      Qn     |   // toggle |
 
 
             
