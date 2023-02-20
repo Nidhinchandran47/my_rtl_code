@@ -24,3 +24,15 @@ Here i am implimenting 4 to 1 multiplexer in 4 format
  ![timing diagram](https://user-images.githubusercontent.com/96820094/219843257-bc8e4f5b-6953-4690-9639-45ce2f9dbf37.png)
 
 
+# Example code
+
+__Case Statement__
+
+                  always @(...)
+                  case (s)
+                  2'b00 : (.....)
+                  2'b01 : (.....)
+                  2'b10 : (.....)
+                  2'b11 : (.....)
+                  default : (....)
+                  endcase
