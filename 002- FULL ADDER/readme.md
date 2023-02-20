@@ -13,3 +13,13 @@ This is the basic block of n bit parallel adder.
 |   1   |   0   |    1     |   0   |     1     |
 |   1   |   1   |    0     |   0   |     1     |
 |   1   |   1   |    1     |   1   |     1     |
+
+- - - -
+
+# Simulation result 
+
+![timing diagram](https://user-images.githubusercontent.com/96820094/220105124-6bb15bc5-5b2a-46d8-84b3-6d80d9d9cd90.png)
+timing diagram
+
+![schematic](https://user-images.githubusercontent.com/96820094/220105207-4168c2bd-2c5c-41eb-8ec0-b1c4a31ccc9d.png)
+schematic
