@@ -4,7 +4,7 @@ The full adder has three input states and two output states i.e., sum and carry.
 This is the basic block of n bit parallel adder.
 
 |   A   |   B   | Carry in |  SUM  | Carry out |
-________________________________________________
+| ---- | ---- | ---- | ---- | ---- |
 |   0   |   0   |    0     |   0   |     0     |
 |   0   |   0   |    1     |   1   |     0     |
 |   0   |   1   |    0     |   1   |     0     |
