@@ -62,3 +62,4 @@ If you notice any issues,please raise it.
 |   |   |
 | --- | --- |
 | 1 | [**JK FLIPFLOP**](https://github.com/Nidhinchandran47/my_rtl_code/tree/main/101-%20JK%20FLIPFLOP "JK FLIPFLOP") |
+| 2 | [**T FLIPFLOP**](https://github.com/Nidhinchandran47/my_rtl_code/tree/main/102-%20T%20FLIPFLOP "T FLIPFLOP") |
