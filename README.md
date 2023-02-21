@@ -43,7 +43,7 @@ If you notice any issues,please raise it.
                                                                                      
 # MODULES
 
-# Verilog
+### Verilog ###
 
 |   |    |
 | ---- | ----|
