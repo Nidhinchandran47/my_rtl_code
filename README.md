@@ -43,6 +43,8 @@ If you notice any issues,please raise it.
                                                                                      
 # MODULES
 
+# Verilog
+
 |   |    |
 | ---- | ----|
 | 1 | [**JK FLIPFLOP**](https://github.com/Nidhinchandran47/my_rtl_code/tree/main/001-%20JK%20FLIPFLOP "JK FLIPFLOP") |
