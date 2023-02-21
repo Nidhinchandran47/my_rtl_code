@@ -28,7 +28,7 @@
 </div>
  
 # Learn RTL Design Together
-Repository for Verilog, VHDL, System Verilog building blocks 
+Repository for __Verilog__, __VHDL__, __System Verilog__ building blocks 
 We will upload very basic rtl project  
 Most of these are well tested and shouldn't have issues.
 If you notice any issues,please raise it.
