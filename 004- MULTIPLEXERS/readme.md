@@ -42,5 +42,14 @@ __Conditional Statement__
                  assign y = (condition)?(true):(false);
                                or
                   assign y = (s2)?(s1?d:c):(s1?b:a);
-                  
-                  
+                                    
+__if else Statement__
+
+    always@(*)
+    begin
+        if      (sel == 2'b00)    out = a;
+        else if (sel == 2'b01)    out = b;
+        else if (sel == 2'b10)    out = c;
+        else if (sel == 2'b11)    out = d;
+         
+    end
