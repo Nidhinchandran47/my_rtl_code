@@ -64,4 +64,4 @@ If you notice any issues,please raise it.
 | 1 | [**JK FLIPFLOP**](https://github.com/Nidhinchandran47/my_rtl_code/tree/main/101-%20JK%20FLIPFLOP "JK FLIPFLOP") |
 | 2 | [**T FLIPFLOP**](https://github.com/Nidhinchandran47/my_rtl_code/tree/main/102-%20T%20FLIPFLOP "T FLIPFLOP") |
 | 3 | [**FULL ADDER**](https://github.com/Nidhinchandran47/my_rtl_code/tree/main/103-%20FULL%20ADDER "FULL ADDER") |
-| 4 | [**RIPPLE CARRY ADDER**](https://github.com/Nidhinchandran47/my_rtl_code/tree/main/104-%20RIPPLR%20CARRY%20ADDER "RIPPLE CARRY ADDER") |
+| 4 | [**RIPPLE CARRY ADDER**](https://github.com/Nidhinchandran47/my_rtl_code/tree/main/104-%20RIPPLE%20CARRY%20ADDER "RIPPLE CARRY ADDER") |
