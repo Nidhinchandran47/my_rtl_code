@@ -36,3 +36,11 @@ __Case Statement__
                   2'b11 : (.....)
                   default : (....)
                   endcase
+                                   
+__Conditional Statement__
+
+                 assign y = (condition)?(true):(false);
+                               or
+                  assign y = (s2)?(s1?d:c):(s1?b:a);
+                  
+                  
