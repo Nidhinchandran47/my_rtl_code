@@ -38,7 +38,11 @@ If you notice any issues,please raise it.
     <img src="https://img.shields.io/badge/CIRCUITVERSE -D62D?style=for-the-badge&logo=razer&logoColor=252525" alt="LinkedIn Badge"/>
   </a>
  </div>
+ 
+- - - -
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhinchandran47&theme=dracula" />
+ 
 - - - -                                                                                     
                                                                                      
 # MODULES
