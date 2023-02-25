@@ -41,7 +41,7 @@ If you notice any issues,please raise it.
  
 - - - -
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhinchandran47&repo=my_rtl_code&layout=compact&theme=dracula" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhinchandran47&exclude_repo=aras,flotadder,4-bit-alu,muc_unit,nielit&layout=compact&theme=highcontrast&card_width=500" />
  
 - - - -                                                                                     
                                                                                      
