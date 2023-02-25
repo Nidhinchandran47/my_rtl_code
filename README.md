@@ -41,7 +41,7 @@ If you notice any issues,please raise it.
  
 - - - -
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhinchandran47&theme=dracula" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhinchandran47&repo=my_rtl_code&layout=compact&theme=dracula" />
  
 - - - -                                                                                     
                                                                                      
