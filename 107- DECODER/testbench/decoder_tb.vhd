@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------------
 -- Company: 
--- Engineer: 
+-- Engineer: NIDHIN CHANDRAN
 -- 
 -- Create Date: 26.02.2023 19:27:27
 -- Design Name: 
