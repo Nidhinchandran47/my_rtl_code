@@ -71,3 +71,4 @@ If you notice any issues,please raise it.
 | 4 | [**RIPPLE CARRY ADDER**](https://github.com/Nidhinchandran47/my_rtl_code/tree/main/104-%20RIPPLE%20CARRY%20ADDER "RIPPLE CARRY ADDER") |
 | 5 | [**MULTIPLEXERS**](https://github.com/Nidhinchandran47/my_rtl_code/tree/main/105-%20MULTIPLEXERS "MULTIPLEXERS") |
 | 6 | [**DEMULTIPLEXER**](https://github.com/Nidhinchandran47/my_rtl_code/tree/main/106-%20DEMULTIPLEXER "DEMULTIPLEXER") |
+| 7 | [**DECODER**](https://github.com/Nidhinchandran47/my_rtl_code/tree/main/107-%20DECODER "DECODER") |
