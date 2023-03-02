@@ -26,3 +26,17 @@ BCD (binary coded decimal) is a code type where decimal number(0-9) where repres
 | 19 | 13 | 0001 1001 |
 | 20 | 14 | 0010 0000 |
 
+
+__Simulation results__
+
+![circuit diagram](https://user-images.githubusercontent.com/96820094/222418409-b52e406c-9bfb-4f13-9525-f43f59c3409b.png)
+circuit diagram
+
+![timing diagram](https://user-images.githubusercontent.com/96820094/222418437-4d7ed33c-5bd4-47aa-af21-6143f99cd249.png)
+timing diagram
+
+![schematic1](https://user-images.githubusercontent.com/96820094/222418456-253b2d3c-cf8c-41b4-a9a4-03b1d64f6cdb.png)
+schematic1
+
+![schematic2](https://user-images.githubusercontent.com/96820094/222418494-5ca30a92-1de5-49a4-9ebf-69261439915c.png)
+schematic2
