@@ -55,7 +55,8 @@ If you notice any issues,please raise it.
 | 5 | [**BINARY TO GRAY CONVERTER**](https://github.com/Nidhinchandran47/my_rtl_code/tree/main/005-%20BINARY%20TO%20GRAY%20CONVERTER "BINARY TO GRAY CONVERTER") |
 | 6 | [**GRAY TO BINARY CONVERTER**](https://github.com/Nidhinchandran47/my_rtl_code/tree/main/006-%20GRAY%20TO%20BINARY%20CONVERTER "GRAY TO BINARY CONVERTER") |
 | 7 | [**RIPPLE CARRY ADDER**](https://github.com/Nidhinchandran47/my_rtl_code/tree/main/007-%20RIPPLE%20CARRY%20ADDER "RIPPLE CARRY ADDER") |
-| 8 | [**BINARY TO BCD CONVERTER**](https://github.com/Nidhinchandran47/my_rtl_code/tree/main/008-%20BINARY%20TO%20BCD%20CONVERTER "BINARY TO BCD CONVERTER") |
+| 8 | [**BINARY TO BCD CONVERTER (8-4-2-1)**](https://github.com/Nidhinchandran47/my_rtl_code/tree/main/008-%20BINARY%20TO%20BCD%20CONVERTER "BINARY TO BCD CONVERTER") |
+| 9 | [**BCD TO BINARY CONVERTER (8-4-2-1)**](https://github.com/Nidhinchandran47/my_rtl_code/tree/main/009-%20BCD%20TO%20BINARY%20CONVERTER "BCD TO BINARY CONVERTER") |
 
 
 
