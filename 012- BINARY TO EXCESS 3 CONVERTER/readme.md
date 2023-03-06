@@ -23,3 +23,11 @@ The following table shows the excess-3 codes for the decimal digits 0 to 9:
 Decimal	BCD code	Excess-3 code
 
 Excess-3 code is used in some older computer systems and digital circuits, but it has largely been replaced by other codes such as binary-coded decimal (BCD) or binary.
+
+# Simulation result
+
+![waveform](https://user-images.githubusercontent.com/96820094/223156588-99feb8cd-ac13-4069-85ae-6d0a7880ff46.png)
+
+![tcl console result](https://user-images.githubusercontent.com/96820094/223156636-c09374e1-fda9-4234-8075-edcc4e127b8d.png)
+
+![schematics](https://user-images.githubusercontent.com/96820094/223156659-c8cc8e85-3321-47f6-a3f4-770c74d8d10c.png)
