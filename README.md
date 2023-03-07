@@ -59,7 +59,7 @@ If you notice any issues,please raise it.
 | 9 | [**BCD TO BINARY CONVERTER (8-4-2-1)**](https://github.com/Nidhinchandran47/my_rtl_code/tree/main/009-%20BCD%20TO%20BINARY%20CONVERTER "BCD TO BINARY CONVERTER") |
 | 10 | [**DECIMAL TO AIKEN CONVERTER (2-4-2-1)**](https://github.com/Nidhinchandran47/my_rtl_code/tree/main/010-%20DECIMAL%20TO%20AIKEN%20CODE "DECIMAL TO AIKEN CODE CONVERTER") |
 | 11 | [**AIKEN TO DECIMAL (2-4-2-1)**](https://github.com/Nidhinchandran47/my_rtl_code/tree/main/011-%20AIKEN%20TO%20DECIMAL "AIKEN CODE TO DECIMAL CONVERTER") |
-| 11 | [**BINARY TO EXCESS 3 CONVERTER**](https://github.com/Nidhinchandran47/my_rtl_code/tree/main/012-%20BINARY%20TO%20EXCESS%203%20CONVERTER "BINARY TO EXCESS 3 CONVERTER") |
+| 12 | [**BINARY TO EXCESS 3 CONVERTER**](https://github.com/Nidhinchandran47/my_rtl_code/tree/main/012-%20BINARY%20TO%20EXCESS%203%20CONVERTER "BINARY TO EXCESS 3 CONVERTER") |
 
 
 
