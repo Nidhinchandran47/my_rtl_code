@@ -62,7 +62,7 @@ If you notice any issues,please raise it.
 | 12 | [**BINARY TO EXCESS 3 CONVERTER**](https://github.com/Nidhinchandran47/my_rtl_code/tree/main/012-%20BINARY%20TO%20EXCESS%203%20CONVERTER "BINARY TO EXCESS 3 CONVERTER") |
 | 13 | [**EXCESS TO BINARY 3 CONVERTER**](https://github.com/Nidhinchandran47/my_rtl_code/tree/main/013-%20EXCESS%203%20TO%20BINARY%20CONVERTER "EXCESS 3 TO BINARY CONVERTER") |
 | 14 | [**7 SEGMENT DISPLAY DECODER**](https://github.com/Nidhinchandran47/my_rtl_code/tree/main/014-%20SEVEN%20SEGMENT%20DECODER "SEVEN SEGMENT DECODER") |
-| 15 | [** MULTIPLIER**](https://github.com/Nidhinchandran47/my_rtl_code/tree/main/015-%20MULTIPLIER "MULTIPLIER") |
+| 15 | [** MULTIPLIER **](https://github.com/Nidhinchandran47/my_rtl_code/tree/main/015-%20MULTIPLIER "MULTIPLIER") |
 
 
 
