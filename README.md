@@ -64,7 +64,7 @@ If you notice any issues,please raise it.
 | 14 | [**7 SEGMENT DISPLAY DECODER**](https://github.com/Nidhinchandran47/my_rtl_code/tree/main/014-%20SEVEN%20SEGMENT%20DECODER "SEVEN SEGMENT DECODER") |
 | 15 | [**MULTIPLIER**](https://github.com/Nidhinchandran47/my_rtl_code/tree/main/015-%20MULTIPLIER "MULTIPLIER") |
 | 16 | [**DEMULTIPLEXER**](https://github.com/Nidhinchandran47/my_rtl_code/tree/main/016-%20DEMULTIPLEXER "DEMULTIPLEXER") |
-| 16 | [**4 BIT COMPARATOR**](https://github.com/Nidhinchandran47/my_rtl_code/tree/main/017-%204%20BIT%20COMPARATOR "4 BIT COMPARATOR") |
+| 17 | [**4 BIT COMPARATOR**](https://github.com/Nidhinchandran47/my_rtl_code/tree/main/017-%204%20BIT%20COMPARATOR "4 BIT COMPARATOR") |
 
 
 ## VHDL ##
