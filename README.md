@@ -80,3 +80,4 @@ If you notice any issues,please raise it.
 | 7 | [**DECODER**](https://github.com/Nidhinchandran47/my_rtl_code/tree/main/107-%20DECODER "DECODER") |
 | 8 | [**ENCODER**](https://github.com/Nidhinchandran47/my_rtl_code/tree/main/108-%20ENCODER "ENCODER") |
 | 9 | [**PRIORITY ENCODER**](https://github.com/Nidhinchandran47/my_rtl_code/tree/main/109-%20PRIORITY%20ENCODER "ENCODER") |
+1
