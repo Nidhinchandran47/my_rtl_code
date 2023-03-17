@@ -66,6 +66,8 @@ If you notice any issues,please raise it.
 | 16 | [**DEMULTIPLEXER**](https://github.com/Nidhinchandran47/my_rtl_code/tree/main/016-%20DEMULTIPLEXER "DEMULTIPLEXER") |
 | 17 | [**4 BIT COMPARATOR**](https://github.com/Nidhinchandran47/my_rtl_code/tree/main/017-%204%20BIT%20COMPARATOR "4 BIT COMPARATOR") |
 | 18 | [**SR FLIPFLOP**](https://github.com/Nidhinchandran47/my_rtl_code/tree/main/018-%20SR%20FLIPFLOP "SR FLIPFLOP") |
+| 19 | [**T FLIPFLOP**](https://github.com/Nidhinchandran47/my_rtl_code/tree/main/019-%20T%20FLIPFLOP "T FLIPFLOP") |
+
 
 ## VHDL ##
 
